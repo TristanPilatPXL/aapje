@@ -6,6 +6,7 @@
         {
             int leeftijd = GeefLeeftijd();
             ToonLeeftijd(leeftijd);
+            Console.WriteLine("Druk op een toets om af te sluiten...");
 
 
         }
